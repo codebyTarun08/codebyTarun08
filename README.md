@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Tarun kumar. I am a third-year student pursuing a B.Tech degree in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning from Abdul Kalam Technical University, Lucknow.<br>I am passionate about exploring new technologies and learning new skills that can help me grow as a professional. <br>I am always looking for opportunities to apply my skills to real-world problems.
+Hi my name is Tarun kumar. I am a 4th year student pursuing a B.Tech degree in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning from Abdul Kalam Technical University, Lucknow.<br>I am passionate about exploring new technologies and learning new skills that can help me grow as a professional. <br>I am always looking for opportunities to apply my skills to real-world problems.
 
 
 ## 🌐 Socials:
